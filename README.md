@@ -18,8 +18,6 @@ Python 3
 
 Requests – for sending HTTP requests
 
-BeautifulSoup (bs4) – for parsing HTML content
-
 Pandas – for cleaning and displaying data in tabular format
 
 Jupyter Notebook – for development and demonstration
