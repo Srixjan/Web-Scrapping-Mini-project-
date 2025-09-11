@@ -74,4 +74,3 @@ Srijan Chowdhury
 
 GitHub: Srixjan
 
-Would you like me to also create a requirements.txt file (listing requests, bs4, pandas, etc.) so that others can run it easily?
